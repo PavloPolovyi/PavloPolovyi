@@ -1,0 +1,4 @@
+settings:
+    max_lines: 5
+    date:
+        timezone: "GMT-02:00"
