@@ -2,7 +2,7 @@
 * :nerd_face: I am a beginner software engineer from Ukraine
 * :fearful: Trying to survive war and black-out
 * :orange_book: Currently learning Java, Hibernate and Spring
-* :raising_hand_man: Open for collaboration 
+* :raising_hand_man: Opened for collaboration 
 * :trophy: 2022 Goal: find my first job in IT.
 
 
