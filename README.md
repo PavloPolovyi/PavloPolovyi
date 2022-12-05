@@ -21,10 +21,6 @@
 ## Where to find me
 <p><a href="https://github.com/PavloPolovyi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
----------------
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PavloPolovyi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
