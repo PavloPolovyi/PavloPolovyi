@@ -1,17 +1,20 @@
-name: Update README
+name: Update recent github activity
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
+    schedule:
+        - cron: "* 6 * * *"
+    workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Readme-Workflows/recent-activity@v2.4.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    recent-activity:
+        name: "Update README with latest activity"
+        runs-on: ubuntu-latest
+        steps:
+            - name: "Checkout Repository"
+              uses: actions/Checkout@v3
+            - name: "Update README.md from TEMPLATE.md"
+              uses: Readme-Workflows/recent-activity@main
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              with:
+                  CONFIG_FILE: "./.github/recent-activity.config.yml"
