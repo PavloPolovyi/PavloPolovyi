@@ -18,9 +18,8 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg" style="padding-right:10px;"/><br>
 
-## Connect with me
-<a href="https://web.telegram.org/k/#@pasha_pol"><img src="https://simpleicons.org/icons/telegram.svg" width="26px" align="left" alt="Telegram">    </a>
-<a href="#"><img src="https://simpleicons.org/icons/linkedin.svg" width="26px" align="left" alt="LinkedIn"></a><br>
+## Where to find me
+<p><a href="https://github.com/PolovyiPavlo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## GitHub Stats
 <details>
