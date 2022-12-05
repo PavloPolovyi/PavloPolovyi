@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Pavlo Polovyi
 * :nerd_face: I am a beginner software engineer from Ukraine
-* :fearful: Trying to survive war and black-out
+* :fearful: Trying to keep calm and survive war&black-out
 * :orange_book: Currently learning Java, Hibernate and Spring
 * :raising_hand_man: Opened for collaboration 
 * :trophy: 2022 Goal: find my first job in IT
