@@ -16,8 +16,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;"/>
-<img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg" style="padding-right:10px;"/><br>
-
+<img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>&nbsp;&nbsp;&nbsp;     
+ 
 ## Where to find me
 <p><a href="https://github.com/PavloPolovyi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
