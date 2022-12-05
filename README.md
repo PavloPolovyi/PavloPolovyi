@@ -5,6 +5,7 @@
 * :raising_hand_man: Open for collaboration 
 * :trophy: 2022 Goal: find my first job in IT.
 
+
 ## Languages and Tools
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/spring/spring-original-wordmark.svg" style="padding-right:10px;"/>
@@ -18,8 +19,24 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg" style="padding-right:10px;"/><br>
 
+
 ## Connect with me
-<a href="https://web.telegram.org/k/#@pasha_pol"><img src="https://simpleicons.org/icons/telegram.svg" width="26px" align="left" alt="Telegram"></a><br>
+<a href="https://web.telegram.org/k/#@pasha_pol"><img src="https://simpleicons.org/icons/telegram.svg" width="26px" align="left" alt="Telegram"></a>
+<a href="#"><img src="https://simpleicons.org/icons/linkedin.svg" width="26px" align="left" alt="LinkedIn"></a>
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
