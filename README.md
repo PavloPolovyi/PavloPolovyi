@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PavloPolovyi
-- 🌱 I am a beginner Python programmer, I am learning to code and here sometimes I will post my attempts to do something with stuff.
+- 🌱 I am a beginner Java programmer, I am learning to code and here sometimes I will post my attempts to do something with stuff.
 
 
 <!---
