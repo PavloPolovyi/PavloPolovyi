@@ -30,9 +30,13 @@
 
 This is a list of my most recent activity on GitHub.
 
-<!--RECENT_ACTIVITY:start-->
+<details>
+  
+<!--START_SECTION:activity-->
 
-<!--RECENT_ACTIVITY:last_update-->
+<!--END_SECTION:activity-->
+
+</details>
 
 <!---
 PavloPolovyi/PavloPolovyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
