@@ -38,8 +38,3 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-<!---
-PavloPolovyi/PavloPolovyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg
---->
