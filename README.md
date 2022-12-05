@@ -1,9 +1,9 @@
 # 👋 Hi there, I’m Pavlo Polovyi
-* I am a beginner software engineer from Ukraine
-* Trying to survive war and black-out
-* Currently learning Java, Hibernate and Spring
-* Open for collaboration 
-* ⚡ 2022 Goal: find my first job in IT.
+* :nerd_face: I am a beginner software engineer from Ukraine
+* :fearful: Trying to survive war and black-out
+* :orange_book: Currently learning Java, Hibernate and Spring
+* :raising_hand_man: Open for collaboration 
+* :trophy: 2022 Goal: find my first job in IT.
 
 ## Languages and Tools
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-original-wordmark.svg" style="padding-right:10px;"/>
@@ -20,9 +20,7 @@
 
 
 ## Connect with me
-<a href="https://web.telegram.org/k/#@pasha_pol"><img src="https://simpleicons.org/icons/telegram.svg" width="26px" align="left" alt="Telegram"></a>
-&nbsp;&nbsp;
-
+<a href="https://web.telegram.org/k/#@pasha_pol"><img src="https://simpleicons.org/icons/telegram.svg" width="26px" align="left" alt="Telegram"></a><br>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
