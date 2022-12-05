@@ -18,7 +18,6 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg" style="padding-right:10px;"/><br>
 
-
 ## Connect with me
 <a href="https://web.telegram.org/k/#@pasha_pol"><img src="https://simpleicons.org/icons/telegram.svg" width="26px" align="left" alt="Telegram"></a><br>
 
