@@ -17,7 +17,7 @@ jobs:
         with:
           CONFIG_FILE: "./.github/update-readme.config.yml"
 
-      - uses: actions-js/profile-readme@main
+      - uses: actions-js/profile-readme@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           template: "TEMPLATE.md"
