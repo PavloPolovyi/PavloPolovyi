@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: Readme-Workflows/recent-activity@v2.3.3
+      - uses: Readme-Workflows/recent-activity@v2.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -20,7 +20,6 @@ jobs:
       - uses: actions-js/profile-readme@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: PavloPolovyi
           template: "TEMPLATE.md"
 
       - uses: actions-js/push@v1.3
