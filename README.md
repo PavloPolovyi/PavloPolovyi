@@ -31,11 +31,9 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--RECENT_ACTIVITY:start-->
+ <!--START_SECTION:activity-->
 
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-<!--RECENT_ACTIVITY:last_update_end-->
+ <!--END_SECTION:activity-->
 
 </details>
 
