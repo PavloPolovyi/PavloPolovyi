@@ -1,9 +1,7 @@
 # 👋 Hi there, I’m Pavlo Polovyi
 * :nerd_face: I am a beginner software engineer from Ukraine
 * :confounded: Trying to keep calm and survive war&black-out
-* :orange_book: Currently looking for a job in Software Development using Java
 * :raising_hand_man: Opened for collaboration 
-* :trophy: 2023 Goal: find my first job in IT
 
 ## Languages and Tools
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-original-wordmark.svg" style="padding-right:10px;"/>
