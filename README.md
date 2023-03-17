@@ -1,5 +1,5 @@
 # 👋 Hi there, I’m Pavlo Polovyi
-* :nerd_face: I am a beginner software engineer from Ukraine
+* :nerd_face: I am a software engineer from Ukraine
 * :confounded: Trying to keep calm and survive war&black-out
 * :raising_hand_man: Opened for collaboration 
 
